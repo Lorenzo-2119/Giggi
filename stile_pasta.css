@@ -1,0 +1,26 @@
+.sfondo { 
+	background-color:#f0fff0;;
+}
+.centro {
+	text-align:center;
+}
+
+.sezione {
+	background-color:DarkSeaGreen;
+	padding:15px;
+	margin-top:20px;
+	
+}
+.sezione2 {
+	background-color:orange;
+	padding:15px;
+	margin-top:20px;
+	text-align:center;
+	
+}
+.tabella{
+	background-color:gold;
+	padding:15px;
+	margin-top:20px;
+	
+}
