@@ -2,7 +2,14 @@
 	background-color:#f0fff0;
 }
 .centro {
-	
+    text-align: center; /* Centra il testo all'interno della lista */
+    list-style-position: inside; /* Posiziona i numeri della lista all'interno dell'elemento */
+}
+
+.centro li {
+    display: inline-block; /* Rende gli elementi della lista inline-block per centrarli */
+    text-align: left; /* Allinea il testo all'interno degli elementi della lista a sinistra */
+    width: 100%; /* Assicura che ogni elemento della lista occupi l'intera larghezza disponibile */
 }
 
 .sezione {
